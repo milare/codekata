@@ -26,6 +26,7 @@ describe "karate chop inspect" do
     KarateChop.chop(1, [1,3,5,7,8,9]).should == 0
   end
 
+
   it "middle value found in a filled array" do
     KarateChop.chop(8, [1,3,5,7,8,9,13]).should == 4
   end

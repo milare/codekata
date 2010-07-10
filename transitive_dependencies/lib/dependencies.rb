@@ -24,7 +24,6 @@ class Dependencies
 	        end
 	      end
 		  end
-		  
 		end
 end
 
